@@ -25,3 +25,26 @@ Technologies:
 
 Purpose:
 To build a strong programming foundation through consistent practice, structured problem-solving, and practical implementation.
+
+
+
+Sample Output:-
+
+Student Grade Calculator
+Enter student name: Rahul
+
+Enter marks for Python: 85
+Enter marks for Mathematics: 90
+Enter marks for English: 80
+
+Result
+Student: Rahul
+Average: 85.0
+Grade: A
+
+
+Key Features:-
+- Calculates the average marks across multiple subjects.
+- Assigns grades based on predefined score ranges.
+- Validates marks to ensure they fall between 0 and 100.
+- Handles invalid numeric input using exception handling. 
